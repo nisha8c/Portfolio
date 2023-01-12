@@ -19,6 +19,6 @@ https://www.sanity.io/docs/getting-started-with-sanity-cli
 4. In Netlify: upload build folder that gets created.
 5. Make sure to add netlify new site link in sanity io project webhook cors.
 
-## Installation ans Run
+## Installation and Run
 1. Go In Sanity folder and 'npm i' and 'npm run dev'.
 2. Go in frontend folder and 'npm i' and 'npm start'.
