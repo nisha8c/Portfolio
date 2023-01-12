@@ -10,7 +10,9 @@
 ## React JS
 1. With command: **npm start**, Runs on : http://localhost:3000/
 
-# Steps performed:
+# Steps performed: 
+https://www.sanity.io/docs/getting-started-with-sanity-cli
+
 1. Created Sanity project and Schemas.
 2. Created React project.
 3. Go in frontend folder and 'npm run build'
